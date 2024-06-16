@@ -1,4 +1,7 @@
 # Hotel Ratings Platform
+<img width="1400" alt="dd" src="https://github.com/anjalikhushi/Hotel-Microservice-App/assets/82653640/39083651-b37e-4212-873b-e3862bb6bb65">
+
+
 ## Microservices:
 Microservices architecture is a style of building software systems that are composed of small, independent services that communicate over well-defined APIs. These services are independently deployable and scalable, making it easier to develop, test, deploy, and scale complex applications.
 Java is a popular language for building microservices due to its robustness, extensive ecosystem, and strong community support.
