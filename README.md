@@ -16,7 +16,7 @@ Created Rating Microservice using MongoDB Database and tested API using POSTMAN.
  
 <img width="678" alt="Capture" src="https://github.com/anjalikhushi/Hotel-Microservice-App/assets/82653640/0044dbaa-7ebe-42de-bba3-f7d771275f88">
 
-# Explanation 
+# Explanation:
 #### Service Registry
 It is a database or a service that maintains the information about the available services, their instances, and their locations. This allows microservices to discover and communicate with each other dynamically, enhancing scalability and flexibility.
 ##### Eureka Server
