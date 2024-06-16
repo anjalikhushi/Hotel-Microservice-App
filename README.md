@@ -26,7 +26,7 @@ An API Gateway is an essential component in a microservices architecture. It act
 ### Resilience4j
 Resilience4j is a lightweight fault tolerance library inspired by Netflix Hystrix but designed for Java 8 and functional programming. It provides various fault tolerance mechanisms such as Circuit Breaker, Rate Limiter, Retry, Bulkhead, and TimeLimiter.
 # Securing Microservices
-### OktaAuth
+### OktaAuth:
 Integrating Okta for authentication in a Spring Boot application enhances security by providing secure access to your application with minimal configuration. Okta handles user authentication, authorization, and user management, which makes it easier to implement secure login functionality in your application. Here's a step-by-step guide to integrating Okta authentication in a Spring Boot application.
 
 ## Prerequisites
