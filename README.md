@@ -22,7 +22,7 @@ Eureka is a service registry developed by Netflix as part of its Netflix OSS sta
 Feign is a declarative web service client that makes writing web service clients easier. It integrates seamlessly with Spring Cloud and Eureka, allowing you to write web service clients with just a few lines of code. Here's how you can set up and use a Feign client in a Spring Boot application.
 ## API Gateway
 An API Gateway is an essential component in a microservices architecture. It acts as a reverse proxy to accept all application programming interface (API) calls, aggregate the various services required to fulfill them, and return the appropriate result. It can handle requests by routing them to the appropriate microservices, applying security, throttling, load balancing, and caching.
-## Handling Fault Tolerance Using Resilience4j
+## Handling Fault Tolerance Using Resilience4j:
 ### Resilience4j
 Resilience4j is a lightweight fault tolerance library inspired by Netflix Hystrix but designed for Java 8 and functional programming. It provides various fault tolerance mechanisms such as Circuit Breaker, Rate Limiter, Retry, Bulkhead, and TimeLimiter.
 # Securing Microservices
@@ -58,7 +58,7 @@ Integrating Okta for authentication in a Spring Boot application enhances securi
 
 Once the application is created, you will see the Client ID and Client Secret on the application's page. Keep these values handy as they will be used in your Spring Boot application.
 
-## Creating and Configuring a RestTemplate Interceptor
+## Creating and Configuring a RestTemplate Interceptor:
 Using a RestTemplate interceptor allows you to add pre-processing and post-processing logic for your HTTP requests and responses. This can be very useful for cross-cutting concerns such as logging, authentication, or modifying requests and responses.
 ## Steps:
 1.Add Dependencies.
