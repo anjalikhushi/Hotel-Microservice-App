@@ -8,6 +8,7 @@ Java is a popular language for building microservices due to its robustness, ext
 ### User Service
 Created User Microservice using MYSQL Database and tested API using POSTMAN.
 ### Hotel Service
+
 Created Hotel Microservice using PostgreSQL Database and tested API using POSTMAN.
 ### Rating Service
 Created Rating Microservice using MongoDB Database and tested API using POSTMAN.
